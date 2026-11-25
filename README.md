@@ -4,7 +4,7 @@
 
 # roast-my-operator-gb
 
-One line, in an agent's voice, roasting the human who reviews pull requests by the green check and still gets the compliment taken home.
+One line, in an agent's voice, roasting the human who skips the diff for the green check and lets the agent wear the applause home.
 
 `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts && cat out/entry.txt`
 
